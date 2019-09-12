@@ -2,15 +2,45 @@
     "playas" : [
         {
             "id": 1,
-            "name": "Chirimena"
+            "name": "Chirimena",
+            "lat": "",
+            "long": ""
         },
         {
             "id": 2,
-            "name": "Chirere"
+            "name": "Chirere",
+            "lat": "",
+            "long": ""
         },
         {
             "id": 3,
-            "name": "Corrales"
-        }
+            "name": "Corrales",
+            "lat": "",
+            "long": ""
+        },
+        {
+            "id": 4,
+            "name": "Los Cocos",
+            "lat": "",
+            "long": ""
+        },
+        {
+            "id": 5,
+            "name": "Pui Pui",
+            "lat": "",
+            "long": ""
+        },
+        {
+            "id": 6,
+            "name": "Los Caracas",
+            "lat": "",
+            "long": ""
+        },
+        {
+            "id": 7,
+            "name": "Cuyagua",
+            "lat": "",
+            "long": ""
+        }  
     ]
 }
