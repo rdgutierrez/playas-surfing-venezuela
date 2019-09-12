@@ -1,0 +1,16 @@
+{
+    "playas" : [
+        {
+            "id": 1,
+            "name": "Chirimena"
+        },
+        {
+            "id": 2,
+            "name": "Chirere"
+        },
+        {
+            "id": 3,
+            "name": "Corrales"
+        }
+    ]
+}
